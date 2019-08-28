@@ -1,5 +1,5 @@
 # PIL-Desktop
- PIL Desktop is designed to use functions written in PIL to modify photos
+PIL Desktop is an application written using the PyQt5 library and designed to use functions written in PIL to change photos
 
 MenuBar :: Filters tabs do not work
 Reset all - discard filters
